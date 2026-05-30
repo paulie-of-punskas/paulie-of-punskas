@@ -1,14 +1,16 @@
 ## Labas / Hello / Hallo / Grüezi / Cześć
 
-I am Paul, and currently am working as a programmer for one of pharmaceutical companies. In the past, I had worked in finance as well as insurance industries as well. 
+I am Paul, and currently am working as a programmer for one of pharmaceutical companies. In the past, I had worked in finance as well as insurance industries as well. I like Test-Driven Development.
 
-I am using using this as a landing page and "single source of truth" of what I am currently working on or had worked on before. I consider it as a quasi portfolio. Some of the projects might be hosted on different code forge*.
+I am using using this as a landing page and "single source of truth" of what I am currently working on or had worked on before. I consider it as a quasi portfolio. Some of the projects might be hosted on different code forge.
 
-All the code, I had committed here or to [Codeberg](https://codeberg.org) was written by me, with no extra help. Yep, no generative "AI", believe it or not. I take ownership of what I commit and build, however can't take responsibility (here) if something breaks or is used as not instructed.
+All the code, I had committed here or to [Codeberg](https://codeberg.org) was written by me, with no extra help. Yep, no generative "AI", believe it or not. LLMs are nice tools, that are really helpful, however, I noticed that I forget what I write, if I use only them for coding `-_-'`.
+
+I take ownership of what I commit and build, however can't take responsibility (here) if something is used incorrectly.
 
 ## Why some repositories contain empty files?
 
-I am a big fan of open source, however I cannot prevent generative "AI" companies from scraping my work and using it for training LLMs. That's why, I collaborate mostly on private code forge or on [Codeberg](https://codeberg.org/paulie-aus-punskas).
+I am a big fan of open source, however I cannot prevent generative "AI" companies from scraping my work, using it for training LLMs and then selling it back. That's why, I collaborate mostly on private code forge or on [Codeberg](https://codeberg.org/paulie-aus-punskas). 
 
 ## What I have been working on / Finished working
 
@@ -16,6 +18,7 @@ I am a big fan of open source, however I cannot prevent generative "AI" companie
 - [track_workout](https://github.com/paulie-of-punskas/java-track_workout) - a web application used for tracking my workouts. Containerized and deployed to Azure. Stack: 
   - Java 17
     - Spring Boot 3
+    - JUnit
     - Maven
   - JavaScript
   - PostgreSQL
@@ -23,7 +26,7 @@ I am a big fan of open source, however I cannot prevent generative "AI" companie
 - [my-reads](https://github.com/paulie-of-punskas/my-reads) - a web application that is used for tracking books I am reading / have read. Main rationale behind it, was that I kept forgetting the exact quotes that author wrote and which I liked.
 Stack:
   - Java 17
-    - Spring Boot 3 (maybe 4 in soon?)
+    - Spring Boot 3 (maybe 4, soon?)
     - Maven
   - PostgreSQL
   - TypeScript 
