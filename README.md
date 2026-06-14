@@ -1,6 +1,6 @@
 ## Labas / Hello / Hallo / Grüezi / Cześć
 
-I am Paul, and currently am working as a programmer for one of pharmaceutical companies. In the past, I had worked in finance as well as insurance industries as well. I like Test-Driven Development.
+I am Paul, and currently am working as a programmer for one of pharmaceutical companies. In the past, I had worked in finance and insurance industries as well. I like Test-Driven Development.
 
 I am using using this as a landing page and "single source of truth" of what I am currently working on or had worked on before. I consider it as a quasi portfolio. Some of the projects might be hosted on different code forge.
 
