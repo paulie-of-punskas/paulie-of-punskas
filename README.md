@@ -25,7 +25,7 @@ I am a big fan of open source, however I cannot prevent generative "AI" companie
 
 - [my-reads](https://github.com/paulie-of-punskas/my-reads) - a web application that is used for tracking books I am reading / have read. Main rationale behind it, was that I kept forgetting the exact quotes that author wrote and which I liked.
 Stack:
-  - Java 17
+  - Java 21
     - Spring Boot 3 (maybe 4, soon?)
     - Maven
   - PostgreSQL
