@@ -43,3 +43,8 @@ Stack:
 ### DevOps
 - [get-lts-versions](https://github.com/paulie-of-punskas/get-lts-versions) - a GitHub Action used for fetching Long Term Support versions from [endoflife.date](https://endoflife.date/). Stack:
   - TypeScript
+
+- [gitops-scripts](https://github.com/paulie-of-punskas/gitops-scripts) - a set of git ops scripts:
+  - written in TypeScript
+  - setup-java: setting up Java environment combined with [get-lts-versions](https://github.com/paulie-of-punskas/get-lts-versions)
+  - pr-check-sha: check if commmitted GitHub Actions yaml files contain SHA with a semver string
