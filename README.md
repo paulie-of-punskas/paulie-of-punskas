@@ -40,7 +40,7 @@ Stack:
     - BeautifulSoup
     - Flask
 
-### DevOps
+### DevOps / SRE / Platform
 - [get-lts-versions](https://github.com/paulie-of-punskas/get-lts-versions) - a GitHub Action used for fetching Long Term Support versions from [endoflife.date](https://endoflife.date/). Stack:
   - TypeScript
  
