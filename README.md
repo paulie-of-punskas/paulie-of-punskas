@@ -43,6 +43,8 @@ Stack:
 ### DevOps
 - [get-lts-versions](https://github.com/paulie-of-punskas/get-lts-versions) - a GitHub Action used for fetching Long Term Support versions from [endoflife.date](https://endoflife.date/). Stack:
   - TypeScript
+ 
+- [gha-costs](https://github.com/paulie-of-punskas/gha-costs) - CLI app used for monitoring costs of GitHub Actions runners, CI/CD pipelines.
 
 - [gitops-tools](https://github.com/paulie-of-punskas/gitops-tools) - a set of git ops scripts or CLI:
   - setup-java (TypeScript): setting up Java environment combined with [get-lts-versions](https://github.com/paulie-of-punskas/get-lts-versions)
