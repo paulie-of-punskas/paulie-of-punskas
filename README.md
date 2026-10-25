@@ -42,7 +42,8 @@ Stack:
 
 ### DevOps / SRE / Platform
 - [get-lts-versions](https://github.com/paulie-of-punskas/get-lts-versions) - a GitHub Action used for fetching Long Term Support versions from [endoflife.date](https://endoflife.date/). Stack:
-  - TypeScript
+  - Golang >= v1.1.0
+  - TypeScript < v1.1.0
  
 - [gha-costs](https://github.com/paulie-of-punskas/gha-costs) - CLI app used for monitoring costs of GitHub Actions runners, CI/CD pipelines. Stack:
   - Golang
